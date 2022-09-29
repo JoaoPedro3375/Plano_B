@@ -1,0 +1,22 @@
+body{
+    background-color: #FFF8F9;
+}
+
+#btn-enter{
+        height: 50px;
+        width: 100px;
+        border-radius: 10px;
+        font-family: 'Nunito';
+        color: white;
+        background-color: #77226C; 
+        border: none;
+}
+
+.h6{
+    margin-left: 55%;
+}
+
+.img{
+    margin-left: -7%;
+}
+

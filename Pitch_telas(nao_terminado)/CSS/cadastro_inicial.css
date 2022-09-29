@@ -1,0 +1,37 @@
+body{
+    background-color: #FFF8F9;
+}
+
+font{
+    font-family: 'Nunito';
+}
+
+.select-pronome{
+    width: 100%;
+    border: none;
+}
+
+.btn-enter{
+    height: 50px;
+    width: 100px;
+    
+    border-radius: 10px;
+    font-family: 'Nunito';
+    color: white;
+    background-color: #77226C; 
+    border: none;
+}
+
+
+.p-welcome{
+    font-family: 'Dancing Script';
+    font-size: 70px;
+}
+
+.name{
+    margin-bottom: 3%;
+}
+
+.lbl-pronome{
+    margin-bottom: 3%;
+}

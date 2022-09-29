@@ -1,0 +1,110 @@
+
+body{
+    background-color: #FFF8F9;
+}
+
+body h1{
+    text-align: center;
+   font-family: 'Nunito';
+    margin-left: -7%;
+    color: #77226C;
+}
+
+
+
+form{
+    padding-top: 2vh; /*view height -> 5% da tela*/
+    text-align: center;
+    margin-left: -5%;
+    
+}
+
+.email{
+    margin-left: -10%;
+}
+
+.name{
+    margin-left: -9%;
+}
+
+.senha{
+    margin-left: -10%;
+}
+
+.senha-2{
+    margin-left: -3%;
+}
+
+#email-box{
+    margin-bottom: 20px;
+}
+
+#name-box{
+    margin-bottom: 15px;
+}
+
+#password-box{
+    margin-bottom: 15px;
+}
+
+#password-box-2{
+    margin-bottom: 15px;
+}
+
+#email{
+    height: 40px;
+    width: 220px;
+    box-shadow: 0px 3px 11px rgb(99, 99, 99);
+    border-radius: 6px;
+    border: none;
+    background-color: #e9d3e5;
+}
+
+#name{
+    height: 40px;
+    width: 220px;
+    box-shadow: 0px 3px 11px rgb(99, 99, 99);
+    border-radius: 6px;
+    border: none;
+    background-color: #e9d3e5;
+}
+
+
+#senha{
+    height: 40px;
+    width: 220px;
+    box-shadow: 0px 3px 11px rgb(99, 99, 99);
+    border-radius: 6px;
+    border: none;
+    background-color: #e9d3e5;
+}
+
+#btn-confirmar{
+    margin-bottom: 1%;
+    height: 40px;
+    width: 220px;
+    border-radius: 10px;
+    font-family: 'Nunito';
+    color: white;
+    background-color: #CC768D; 
+    border: none;
+}
+
+#btn-medico{
+    margin-bottom: 1%;
+    height: 40px;
+    width: 220px;
+    border-radius: 10px;
+    font-family: 'Nunito';
+    color: white;
+    background-color: #175873; 
+    border: none;
+}
+
+#form-registro{
+    padding-top: 2vh; /*view height -> 5% da tela*/
+    font-family: 'Nunito';  
+}
+
+
+

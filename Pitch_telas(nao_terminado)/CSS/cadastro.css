@@ -1,0 +1,27 @@
+body{
+    background-color: #FFF8F9;
+}
+
+form{
+    font-family: 'Nunito';
+}
+
+form h1{
+    color: #77226C;
+}
+
+#btn-medico{
+    margin-top: 10%;
+    height: 40px;
+    width: 220px;
+    border-radius: 10px;
+    font-family: 'Nunito';
+    color: white;
+    background-color: #175873; 
+    border: none;
+}
+
+.btn{
+    background-color: rgb(185, 184, 184);
+    margin-bottom: 1%;
+}
